@@ -1,5 +1,5 @@
-@font-face{font-family:Lato;src:url('assets/fonts/lato-regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
-@font-face{font-family:Lato;src:url('assets/fonts/lato-bold.ttf') format('truetype');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:Lato;src:url('lato-regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:Lato;src:url('lato-bold.ttf') format('truetype');font-style:normal;font-weight:700;font-display:swap}
 :root{
   --ink:#253644;--body:#48525b;--muted:#72808b;--blue:#28658a;--blue-dark:#184b6b;
   --line:#e4eaee;--soft:#f5f8fa;--sans:Lato,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
